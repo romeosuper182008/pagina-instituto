@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<html>
+
+<head>
+
+   			 <meta charset="utf-8" />
+    <title>Instituto Doña Leonor de Guzman</title>
+    <!-- The h1 size is the largest and the h6 size is the smallest -->
+
+
+    <style>
+   	 .container {
+   		 position: relative;
+   	 }
+
+   	 .text {
+   		 position: absolute;
+   		 top: 50%;
+   		 left: 50%;
+   		 transform: translate(-50%, -50%);
+   		 font-size: 32px;
+   		 color: white;
+   		 text-shadow: 2px 2px black;
+   	 }
+    </style>
+</head>
+<body bgcolor="white">
+    <div class="container">
+   	 <img src="https://lh5.googleusercontent.com/p/AF1QipN7FDiOT4caxbWTCz2OeARb1E7rBbHyg9pMutxD=w408-h272-k-no" alt="Foto del instituto" width="1570" height="1370">
+   	 <div class="text">
+   		 <h1>I.E.S. Doña Leonor de Guzman</h1>
+   		 
+   	 </div>
+    </div>
+    <div>
+   	  <img src="https://donaleonordeguzman.es/wp-content/uploads/2020/09/Copia-de-Recomendaciones-e1600705005234.png" style="float:right;" style= width="500" height="300">
+   <h1 class="site-title"><a href="https://sites.google.com/view/poesia-en-el-leonor/inicio" rel="home">Semana de la Poesía en el Leonor</a></h1>
+   <h2><a>Del 13 al 17 de febrero</a></h2>
+   <p>El alumnado del Leonor estará en contacto directo con el mundo poético para conocer o profundizar, según el curso escolar, en las características de este género literario.  La poesía es el mejor género para […] </p>
+   <h1 class="site-title"><a href="https://sites.google.com/view/estrategias-lectorasie/inicio" rel="home">Estrategias lectoras</a></h1>
+	<p><a>En esta ocasión compartimos el trabajo realizado en Lengua y Literatura por el alumnado de 2º curso. Es una actividad realmente preciosa que queda recogida en el Site del Programa ComunicA.   Los alumnos de 2º de ESO leyeron en […] </a></p>
+ 
+<h1 class="site-title"><a href="https://sites.google.com/view/vuelve-el-eco-huerti/inicio" rel="home">Vuelve el Eco Huerti</a></h1>
+<h2>28 enero, 2023,Aulas Específicas</h2>
+<p>Un año el huerto escolar de las aulas específicas de nuestro centro vuelve a estar en funcionamiento. Hemos sembrado zanahorias, cebollas, brócolis, coliflor y guisantes. Sin la ayuda de Juan el compañero de mantenimiento no hubiéramos podido empezar ya que […]</p>
+
+
+<h1 class="site-title"><a href="https://sites.google.com/view/vuelve-colorearte/inicio" rel="home">Vuelve ColoreArte</a></h1>
+
+<h2>27 diciembre, 2022 CoTIC2Aulas Específicas, Departamento de Orientación</h2>
+<p>La semana pasada el alumnado de las Aulas Específicas hicieron la m uestra de su proyecto ColoreArte en el pasillo central del instituto. Junto a sus profesoras, dispusieron todos los productos que han ido haciendo a lo largo del trimestre […]</p>
+
+
+<h1 class="site-title"><a href="https://sites.google.com/view/relatos-navideos/inicio" rel="home">Relatos Navideños 2022</a></h1>
+
+<h2>27 diciembre, 2022 CoTIC2ComunicA, Concursos, Departamento de Competencia Comunicativa, Uncategorized</h2>
+<p>Sofía Vergara Zurera (2ºA) y Paula Romero Avecilla (4ºA) han resultado las ganadoras de sus respectivas categorías en el IV Concurso de Relatos Navideños convocado por el departamento de Lengua Castellana y Literatura del centro.  Por cuarto año consecutivo se […]</p>
+
+<h1 class="site-title"><a href="https://sites.google.com/view/un-clic-para-el-cole/inicio" rel="home">Un Clic para el Cole</a></h1>
+
+<h2>10 noviembre, 2022 CoTIC2Uncategorized</h2>
+<p>Nuestro centro educativo participará a la iniciativa Un clic para el cole 2022-2023 con el objetivo de acumular un crédito virtual que canjearemos por material escolar para los estudiantes. Para ello, necesitamos vuestra ayuda. Es muy fácil y no cuesta […]</p>
+
+
+<h1 class="site-title"><a href="https://sites.google.com/view/el-gran-kilema-en-el-ies-doa-l/inicio" rel="home">El Gran Kilema en el IES Doña Leonor de Guzmán</a></h1>
+
+<h2>7 noviembre, 2022 CoTIC2Actividades Extraescolares y Complementarias</h2>
+<p>Hoy en nuestro instituto hemos podido disfrutar de la sabiduría de Kilema, mediante un concierto didáctico excepcional donde además de cantar y bailar hemos conocido la realidad de Madagascar a través de instrumentos creados por él mismo. Nuestro alumnado no […]</p>
+
+<hr> size="15px" color="black"</hr>
+dirección:Avenida de las Rosas s/n 41500 Alcalá de Guadaíra
+telefono:955 623 312
+</div>
+
+</body>
+</html>
